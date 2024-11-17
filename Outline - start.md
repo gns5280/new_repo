@@ -1,16 +1,15 @@
-// 241117
-// This txt is a portion from a google doc and placed into this doc which has the .md extention
-// 
+# 241117
+ This txt is a portion from a google doc and placed into this doc which has the .md extention
 
-Bible: Git, github, gitlab
+## Bible: Git, github, gitlab
 
+## Purpose:	1
+1. Document learning and use of git	1
+1. Docs to md Research:	1
+- google_docs_to_markdown (reddit)	1
+- gd2md-html/images..	1
+- Use Pandoc.org to start with the conversion	1
 
-Purpose:	1
-Document learning and use of git	1
-Docs to md Research:	1
-● google_docs_to_markdown (reddit)	1
-● gd2md-html/images..	1
-● Use Pandoc.org to start with the conversion	1
 General Commands:	2
 - Removing files all together	2
 Branches:	3
@@ -19,13 +18,13 @@ Git and GitHub Tutorial for Beginners	4
 
 
 
-241115
-Purpose:
+# 241115
+## Purpose:
 Document learning and use of git
 move txt/source files from Google Drive to decrease storage use of my 15 GB allocation
-learn and use Git
-learn/use vscode and store code on git
-have backup off source code off site, ie, not just on my laptop
-Determine the difficulty of saving files in md which have images.  Typically, this are wiring dia.,
+- learn and use Git
+- learn/use vscode and store code on git
+- have backup off source code off site, ie, not just on my laptop
+- Determine the difficulty of saving files in md which have images.  Typically, this are wiring dia.,
 component images, etc.
-Use this doc as a test for conversion.
+- Use this doc as a test for conversion.
